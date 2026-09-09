@@ -34,7 +34,5 @@ html {
        top: 0;
     }
     #botao{
-       margin-left: 500px;
-       background-color: blue;
-       color: white;
+      text-align: center;
     }

@@ -9,3 +9,5 @@
 0.1.0 HotFix 1  - Reverteu O Codigo Inteiro de volta pra 0.0.5 (A Biblioteca Ferrou com o site inteiro.)
 
 0.1.1 - Botão decorado que leva pra outro site conectado no repositorio
+
+0.1.1 2 - Agora sim o botão ta decorado
