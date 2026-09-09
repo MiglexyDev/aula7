@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  margin: 0;
+}
+
+  body {
+    background-image: url('imagens/BackgroundwindowsXP.png'); /* png do fundo */
+    background-size: cover;         /* faz o fundo cobrir a tela */
+    background-position: center;     /* deixa no meio o background que coloquei */
+    background-repeat: no-repeat;    /* deixa o background uma imagem unica */
+    background-attachment: fixed;    /*deixa o background preso quando scrolla pra baixo o site*/
+    height: 100px;                   /* deixa colado no topo */
+    margin: 0;                       /* tira uns negocio branco feio */
+  }
+      p{
+        font-family: 'Press Start 2P', monospace;  /*Deixa a fonte do windows XP*/
+    }
+
+    div#miguel{
+        text-align: center;
+        color: #005af5; /* Deixa cor do windows XP so pra combinar com o tema */
+    }
+    div#ListaCoisas{
+        text-align: center;
+        color: #005af5; /* Deixa cor do windows XP so pra combinar com o tema (denovo) */
+        margin: 0;
+        font-size: large;
+    }
+
+    div#barradotopo{
+      display:
+       block; width: 100%; height: auto; background-color: #005af5;
+       position: sticky;
+       top: 0;
+    }
