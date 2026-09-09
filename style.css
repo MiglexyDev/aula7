@@ -16,20 +16,25 @@ html {
         font-family: 'Press Start 2P', monospace;  /*Deixa a fonte do windows XP*/
     }
 
-    div#miguel{
+    #miguel{
         text-align: center;
         color: #005af5; /* Deixa cor do windows XP so pra combinar com o tema */
     }
-    div#ListaCoisas{
+    #ListaCoisas{
         text-align: center;
         color: #005af5; /* Deixa cor do windows XP so pra combinar com o tema (denovo) */
         margin: 0;
         font-size: large;
     }
 
-    div#barradotopo{
+    #barradotopo{
       display:
        block; width: 100%; height: auto; background-color: #005af5;
        position: sticky;
        top: 0;
+    }
+    #botao{
+       margin-left: 500px;
+       background-color: blue;
+       color: white;
     }
