@@ -13,3 +13,5 @@
 0.1.1 2 - Agora sim o botão ta decorado
 
 PRE - 0.1.2 - Site 2 Adições
+
+0.1.2 - Imagem Adicionada Ao Site 2
