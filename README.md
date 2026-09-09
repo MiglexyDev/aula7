@@ -15,3 +15,5 @@
 PRE - 0.1.2 - Site 2 Adições
 
 0.1.2 - Imagem Adicionada Ao Site 2
+
+0.1.3 - Arrumei o Tamanho Da Imagem No Segundo HTML e Coloquei Um Footer No Html principal, e coloquei um botão de volta no segundo html
